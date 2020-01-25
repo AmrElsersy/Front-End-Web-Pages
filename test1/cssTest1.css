@@ -1,0 +1,44 @@
+.grey
+{
+	background-color:#474E5D;
+	color:white;
+}
+.navGrey:hover
+{
+	color: white;
+	background-color: rgb(50,50,50);
+}
+.green
+{
+	background-color: #474e5d;	
+	color:white;
+}
+.blue
+{
+	background-color:DodgerBlue;
+	color:white;
+}
+.white
+{
+	background-color: white;
+	color:rgb(50,50,50);
+}
+
+.sizeBtn
+{
+	width: 20%;
+	height: 10%;
+}
+
+.slow
+{
+	transition-duration: 0.5s;
+	transition-property: all;
+}
+
+.carousel-inner img {
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%); /* make all photos black and white */ 
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+}
