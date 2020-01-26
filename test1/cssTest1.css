@@ -1,16 +1,6 @@
 .grey
 {
-	background-color:#474E5D;
-	color:white;
-}
-.navGrey:hover
-{
-	color: white;
-	background-color: rgb(50,50,50);
-}
-.green
-{
-	background-color: #474e5d;	
+	background-color:#2C2C2C;
 	color:white;
 }
 .blue
@@ -24,21 +14,26 @@
 	color:rgb(50,50,50);
 }
 
-.sizeBtn
-{
-	width: 20%;
-	height: 10%;
-}
-
 .slow
 {
 	transition-duration: 0.5s;
 	transition-property: all;
 }
-
-.carousel-inner img {
-    -webkit-filter: grayscale(90%);
-    filter: grayscale(90%); /* make all photos black and white */ 
-    width: 100%; /* Set width to 100% */
-    margin: auto;
+.navbar {
+	letter-spacing: 4px;
+    opacity: 0.9;
 }
+.item img
+{
+	width: 100%;
+	height: absolute;
+	max-height:1000px;
+	margin: auto;
+}
+
+.btn1:hover
+{
+	margin-top: +10px;
+	transition-duration: 0.5s;
+}
+
