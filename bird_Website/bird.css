@@ -29,13 +29,16 @@
 	max-height:1000px;
 	margin: auto;
 }
-.btn_ray2
+.btn-ray2
 {
 	background-color: DodgerBlue;
 	color:white;
 	border:0;
+	transition-duration: 0.3s;
+	transition-property: all;
+
 }
-.btn_ray2:hover
+.btn-ray2:hover
 {
 	margin-top: +3px;
 	margin-bottom: -3px;

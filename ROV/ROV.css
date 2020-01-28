@@ -1,0 +1,130 @@
+.grey
+{
+	background-color:#2D2D30;
+	color:white;
+}
+.blue
+{
+	background-color:DodgerBlue;
+	color:white;
+}
+.white
+{
+	background-color: white;
+	color:rgb(50,50,50);
+}
+
+.slow
+{
+	transition-duration: 0.5s;
+	transition-property: all;
+}
+.navbar {
+	letter-spacing: 4px;
+    opacity: 0.9;
+}
+.item img
+{
+	width: 100%;
+	height: absolute;
+	max-height:1000px;
+	margin: auto;
+}
+
+.btn1:hover
+{
+	margin-top: +10px;
+	transition-duration: 0.5s;
+}
+
+.btn-ray2
+{
+	background-color: red;
+	color:white;
+	border:0;
+	transition-duration: 0.3s;
+	transition-property: all;
+}
+.btn-ray2:hover
+{
+	margin-top: +4px;
+	margin-bottom: -4px;
+	transition-duration: 0.3s;
+	transition-property: all;
+	background-color: white;
+	color:red;
+	border: 1px solid red;
+}
+.margin
+{
+	margin-top: 300px;
+	margin-bottom: :  30px; 
+	margin-right:  30px;
+	margin-left: :  30px;
+}
+.padding
+{
+	padding: 35px 35px 35px 35px;
+}
+
+#about_talk
+{
+	padding-top: 10px;
+}
+#myCarousel img
+{
+	filter:brightness(0.5);
+}
+
+#Competition img
+{
+	height: 300px;
+}
+#Competition h1
+{
+	letter-spacing: 5px;
+}
+#Competition h3	
+{
+	color: grey;
+	font-size:15px;
+}
+#Team
+{
+	margin-top: 30px;
+	padding-top: 10px
+}
+
+#Team span
+{
+	font-size: 50px;
+	color: red;
+}
+#Team h1
+{
+	letter-spacing: 20px;
+}
+
+.vertical-margin
+{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.vertical-padding
+{
+	padding-bottom: 30px;
+}
+#Contact input , #Contact textarea
+{
+	width: 100%;
+	margin: 2px; 
+}
+footer
+{
+	background-color: black;
+	color: white;
+}
+footer a
+{
+	color: white;
+}

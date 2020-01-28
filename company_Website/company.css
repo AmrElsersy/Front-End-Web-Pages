@@ -1,0 +1,197 @@
+.white-grey
+{
+	background-color: #CFCFCF;
+	color: #343434;
+}
+.grey
+{
+	background-color:#2D2D30;
+	color:white;
+}
+.blue
+{
+	background-color:DodgerBlue;
+	color:white;
+}
+.white
+{
+	background-color: white;
+	color:#343434;
+}
+.orange
+{
+	background-color:#f4511e;
+	color:white;
+}
+.slow
+{
+	transition-duration: 0.5s;
+	transition-property: all;
+}
+.item img
+{
+	width: 100%;
+	max-height:1000px;
+	margin: auto;
+}
+.btn-ray2
+{
+	background-color: #f4511e;
+	color:white;
+	border:0;
+	transition-duration: 0.3s;
+	transition-property: all;
+}
+.btn-ray2:hover
+{
+	margin-top: +3px;
+	margin-bottom: -3px;
+	transition-duration: 0.3s;
+	transition-property: all;
+	background-color: white;
+	color:#f4511e;
+	border: 1px solid #f4511e;
+}
+.margin
+{
+	margin-top: 2%;
+	margin-bottom: : 2%; 
+	margin-right: 2%;
+	margin-left: : 2% ;
+}
+.padding
+{
+	padding: 35px 35px 35px 35px;
+}
+
+.box-sizing
+{
+   	box-sizing: margin-box;
+}
+.col-sm-3 {
+	display: inline-block;
+    text-align: center;
+    margin: 1%;
+   	box-sizing: margin-box;
+}
+
+
+#Home
+{
+	background-color: #f4511e;
+	color:white;
+}
+.navbar
+{
+	background-color: #f4511e;
+	color:white;
+}
+
+.navbar li
+{
+	background-color: #f4511e;
+	transition-duration: 0.25s;
+}
+
+.navbar li:hover
+{
+	background-color: white;
+	transition-duration: 0.25s;
+}
+
+.navbar a
+{
+	color:white;
+	transition-duration: 0.25s;
+}
+.navbar a:hover
+{
+	color:#f4511e;
+	transition-duration: 0.25s;
+}
+
+.navbar button span
+{
+	background-color: white;
+}
+
+#about-p
+{
+	color: #CFCFCF;
+	font-size:10px;
+}
+
+.logo
+{
+	color:#f4511e;
+	font-size: 150px;
+}
+
+#Services h4
+{
+	letter-spacing: 3px;
+}
+
+#Services span
+{
+	color : #f4511e;
+	font-size: 50px;
+}
+#Portolio .row .thumbnail img
+{
+	width: 100%;
+}
+
+#Portolio .row .thumbnail
+{
+	transition-duration: 0.3s;
+	transition-property: all;
+}
+#Portolio .row .thumbnail:hover
+{
+	margin-top: +10px;
+	margin-bottom: -10px;
+	transition-duration: 0.3s;
+	transition-property: all;
+	border: 1px solid #f4511e;
+}
+
+.Pricing-1
+{
+	background-color: #f4511e;
+	color: white;
+	text-align:center;
+	width: 100%;
+}
+
+.Pricing-2
+{
+	margin-top:20px;
+	color:  #2D2D30;
+	text-align: center;
+}
+.Pricing-3
+{
+	color:  #2D2D30;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.Pricing-3 a
+{
+	background-color: #f4511e;
+	color: white;
+}
+
+#Pricing .padding
+{
+	padding: 0px;
+	border: 1px solid  #f4511e;
+}
+
+#Contact input , #Contact textarea
+{
+	width: 100%;
+	margin: 2px; 
+}
+
